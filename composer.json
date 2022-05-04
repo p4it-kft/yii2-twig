@@ -1,0 +1,21 @@
+{
+  "name": "p4it-kft/yii2-twig",
+  "license": "MIT",
+  "type": "yii2-extension",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Papp Péter",
+      "email": "papp.peter@p4it.hu"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "yiisoft/yii2-twig": "~2.4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "p4it\\twig\\": "src"
+    }
+  }
+}
