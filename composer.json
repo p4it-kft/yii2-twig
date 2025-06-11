@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "php": ">=7.4",
-    "yiisoft/yii2-twig": "~2.4.1"
+    "php": ">=8.2",
+    "yiisoft/yii2-twig": "^3"
   },
   "autoload": {
     "psr-4": {
